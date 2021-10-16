@@ -1,4 +1,4 @@
 errors.log
 *.log
-
+/.vscode
 /abc
